@@ -1,0 +1,43 @@
+{
+  "id": "00000000-0000-0000-0000-000000010000",
+  "title": "London Churches Pack",
+  "subtitle": "Visit select historic churches across London",
+  "description": "A curated collection of notable churches in London – perfect for discovering architectural and spiritual landmarks.",
+  "entries": [
+	{
+	  "id": "00000000-0000-0000-0000-000000010001",
+	  "title": "Westminster Abbey",
+	  "description": "The Collegiate Church of Saint Peter at Westminster; Gothic royal church in London, coronations and royal burials.",
+	  "latitude": 51.499390,
+	  "longitude": -0.127465
+	},
+	{
+	  "id": "00000000-0000-0000-0000-000000010002",
+	  "title": "St Paul’s Cathedral",
+	  "description": "The Anglican cathedral on Ludgate Hill in London; designed by Sir Christopher Wren in the late 17th century.",
+	  "latitude": 51.513870,
+	  "longitude": -0.098362
+	},
+	{
+	  "id": "00000000-0000-0000-0000-000000010003",
+	  "title": "St Mary Abbots, Kensington",
+	  "description": "Parish church in Kensington, London; large Victorian church, prominent steeple and local landmark.",
+	  "latitude": 51.502361,
+	  "longitude": -0.191757
+	},
+	{
+	  "id": "00000000-0000-0000-0000-000000010004",
+	  "title": "St Mary Redcliffe (Bristol)",
+	  "description": "While not in London, included here as grand Gothic example – large and ornate example of English Gothic architecture.",
+	  "latitude": 51.448330,
+	  "longitude": -2.589523
+	},
+	{
+	  "id": "00000000-0000-0000-0000-000000010005",
+	  "title": "Salisbury Cathedral",
+	  "description": "Cathedral Church of the Blessed Virgin Mary in Salisbury; early English Gothic, with England’s tallest church spire.",
+	  "latitude": 51.0690,
+	  "longitude": -1.7960
+	}
+  ]
+}
